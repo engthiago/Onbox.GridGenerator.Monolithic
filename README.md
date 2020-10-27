@@ -1,6 +1,6 @@
 # Onbox Grid Generator - Monolithic
 
-A modular implementation of the Grid Generator app.
+A monolithic implementation of the Grid Generator app.
 The app was developed as an example implementation of the Onbox Framework.
 ## Launching the App
 1. Clone this repository.
